@@ -1,0 +1,10 @@
+C:\Users\nhuyn\source\repos\LibraryAssignment\LibraryAssignment\bin\Debug\LibraryAssignment.exe.config
+C:\Users\nhuyn\source\repos\LibraryAssignment\LibraryAssignment\bin\Debug\LibraryAssignment.exe
+C:\Users\nhuyn\source\repos\LibraryAssignment\LibraryAssignment\bin\Debug\LibraryAssignment.pdb
+C:\Users\nhuyn\source\repos\LibraryAssignment\LibraryAssignment\obj\Debug\LibraryAssignment.csproj.AssemblyReference.cache
+C:\Users\nhuyn\source\repos\LibraryAssignment\LibraryAssignment\obj\Debug\LibraryAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nhuyn\source\repos\LibraryAssignment\LibraryAssignment\obj\Debug\LibraryAssignment.exe
+C:\Users\nhuyn\source\repos\LibraryAssignment\LibraryAssignment\obj\Debug\LibraryAssignment.pdb
+C:\Users\nhuyn\source\repos\LibraryAssignment\LibraryAssignment\bin\Debug\ClassLibrary1.dll
+C:\Users\nhuyn\source\repos\LibraryAssignment\LibraryAssignment\bin\Debug\ClassLibrary1.pdb
+C:\Users\nhuyn\source\repos\LibraryAssignment\LibraryAssignment\obj\Debug\LibraryA.AFB0A4FD.Up2Date
